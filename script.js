@@ -19,7 +19,7 @@ if (hora >= 6 && hora < 18) {
 console.log(mensagem);
 
 // 02 - Crie um loop for() que exiba apenas números pares até o 20 no console.log()
-for (var i = 2; i <= 20; i += 2) {
+for (let i = 2; i <= 20; i += 2) {
     console.log(i);
 }
 
