@@ -52,7 +52,7 @@ function exibirHoob(filme, musica) {
   console.log("Música:" + musica );
 }
 
-exibirHoob("Simplesmente Acontece", "Counting Stars")
+exibirHoob("Simplesmente Acontece", "Counting Stars - OneRepublic")
 
 // 07 - crie uma função que retorne o triplo do número recebido no parâmetro da função
 let numero = 18;
